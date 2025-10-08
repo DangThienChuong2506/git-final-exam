@@ -1,0 +1,5 @@
+Xin chào, tôi là Đặng Thiên Chương.
+Tôi là sinh viên công nghệ thông tin.
+Sở thích: code, game, gym.
+Kỹ năng: HTML, CSS, Git.
+Kế hoạch học tập: Ôn Git, học Python, thực hành dự án nhỏ mỗi tuần.
