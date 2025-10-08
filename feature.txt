@@ -1,0 +1,3 @@
+Tính năng mới: tự động tạo báo cáo học tập hàng tuần.
+Giúp lưu tiến độ học của sinh viên.
+Sử dụng script Python để tự động tổng hợp.
