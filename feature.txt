@@ -1,3 +1,5 @@
-Tính năng mới: tự động tạo báo cáo học tập hàng tuần.
-Giúp lưu tiến độ học của sinh viên.
-Sử dụng script Python để tự động tổng hợp.
+Tính năng mới: Tự động ghi lại tiến độ học tập mỗi ngày.
+Chức năng: Ghi thời gian, ngày học và nội dung đã hoàn thành.
+Ứng dụng: Giúp người học theo dõi quá trình học Git hiệu quả.
+Kế hoạch: Triển khai trong tuần sau khi hoàn thiện phần Git cơ bản.
+Ngôn ngữ: Python, có thể mở rộng sang JavaScript trong tương lai.
